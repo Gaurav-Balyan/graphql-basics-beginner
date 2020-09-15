@@ -6,6 +6,8 @@
 
 -> Only include server side graphql operations does not include client side access to data
 
+-> Contains graphql-yoga for grahql-server
+
 -> Does not contain any library for generation of schema
 
 -> Can use graphql playground to access graphql operations
