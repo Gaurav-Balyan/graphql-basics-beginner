@@ -1,13 +1,15 @@
--> Contains different schemas type in graphql
++ contains different schemas type in graphql
 
--> Contains core graphql operations like query, mutation and subscription
++ contains core graphql operations like query, mutation and subscription
 
--> Contains resolvers also for relation dependencies
++ contains resolvers also for relation dependencies
 
--> Only include server side graphql operations does not include client side access to data
++ only include server side graphql operations 
 
--> Contains graphql-yoga for grahql-server
++ does not include client side access to data like gql
 
--> Does not contain any library for generation of schema
++ contains graphql-yoga for grahql-server
 
--> Can use graphql playground to access graphql operations
++ does not contain any library for generation of schema like prisma
+
++ can use graphql playground to access graphql operations
